@@ -1,0 +1,2 @@
+../XII/Src/XII_interupt.cpp:13:6:void HAL_GPIO_EXTI_Callback(uint16_t)	15
+../XII/Src/XII_interupt.cpp:62:6:void set_bridge(int, int, int, int, int, int)	4
